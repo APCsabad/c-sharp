@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B9D84424-1C01-4F48-A27E-301AF2992F18}</ProjectGuid>
+    <ProjectGuid>{39ABBD62-5B3B-4FB6-8200-C7760FEA04E9}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Binaris</RootNamespace>
     <AssemblyName>Binaris</AssemblyName>
@@ -63,7 +63,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Binaris.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
